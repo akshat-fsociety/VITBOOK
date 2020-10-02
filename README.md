@@ -39,7 +39,7 @@
 ## Official VITBOOK Logo 
 
 <img src="static/images/logooo.png" />
-S
+
 ***
 
 ## Technolog Stack
