@@ -7,8 +7,9 @@
 .container.text-center.head{
     z-index: 1;
     position: absolute;
-    top: 25%;
-    left: 8%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     background: transparent !important;
 }
 .container.text-center.head  > h1{
